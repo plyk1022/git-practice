@@ -13,3 +13,5 @@ practice4-1
 practice4-2
 
 practice5
+
+stash
